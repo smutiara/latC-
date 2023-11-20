@@ -1,0 +1,8 @@
+D:\usk sello\lat2.C#\lat2\bin\Debug\lat2.exe.config
+D:\usk sello\lat2.C#\lat2\bin\Debug\lat2.exe
+D:\usk sello\lat2.C#\lat2\bin\Debug\lat2.pdb
+D:\usk sello\lat2.C#\lat2\obj\Debug\lat2.csproj.AssemblyReference.cache
+D:\usk sello\lat2.C#\lat2\obj\Debug\lat2.csproj.SuggestedBindingRedirects.cache
+D:\usk sello\lat2.C#\lat2\obj\Debug\lat2.csproj.CoreCompileInputs.cache
+D:\usk sello\lat2.C#\lat2\obj\Debug\lat2.exe
+D:\usk sello\lat2.C#\lat2\obj\Debug\lat2.pdb
